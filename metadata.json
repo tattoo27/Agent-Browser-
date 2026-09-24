@@ -1,0 +1,6 @@
+{
+  "name": "Agent Browser",
+  "description": "Autonomous AI Browser with webpage understanding, multi-tab navigation, and secure task execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
